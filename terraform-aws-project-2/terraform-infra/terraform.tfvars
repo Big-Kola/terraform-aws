@@ -1,3 +1,4 @@
-region = "us-east-2"
-availability_zone = ["us-east-2a", "us-east-2b"]
-cidr_block = "10.0.1.0/24"
+region     = "us-east-2"
+cidr_block = "10.0.0.0/16"
+my_ip      = "193.187.150.229/32"
+db_password = "ChangeMe123!"
